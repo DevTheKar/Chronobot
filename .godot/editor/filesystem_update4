@@ -1,3 +1,6 @@
-res://player/player.tscn
-res://player/player.gd
 res://levels/level.tscn
+res://levels/base_level.tscn
+res://levels/test_levels/test_level.tscn
+res://enemies/enemy_crab.tscn
+res://enemies/enemy_crab.gd
+res://player/player.gd

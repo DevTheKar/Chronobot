@@ -1,5 +1,8 @@
-Camera2D
+Timer
+Marker2D
+Node2D
 CollisionShape2D
 AnimatedSprite2D
 CharacterBody2D
+Camera2D
 TileMap
