@@ -13,3 +13,12 @@ config_version=5
 config/name="Chronobot"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
+
+[layer_names]
+
+2d_physics/layer_1="GROUND"
+2d_physics/layer_2="PLAYER"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0

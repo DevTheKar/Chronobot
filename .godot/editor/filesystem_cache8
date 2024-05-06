@@ -1,3 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1714949024
+::res://::1714959576
 icon.svg::CompressedTexture2D::214591844424538275::1714948297::1714948474::1::::<><>::
+README.md::TextFile::-1::1714951339::0::1::::<><>::
+::res://levels/::1714959450
+level.tscn::PackedScene::2814347130570298137::1714959450::0::1::::<><>::uid://3jwkvtj2lf0g::::res://tileset/game_tilesets_1.png
+::res://player/::1714959576
+player-idle.png::CompressedTexture2D::4131899063191933321::1714959574::1714959576::1::::<><>::
+player-run.png::CompressedTexture2D::2927401112574558581::1714959574::1714959576::1::::<><>::
+player.tscn::PackedScene::8811570393058643798::1714959496::0::1::::<><>::
+::res://tileset/::1714959207
+game_tilesets_1.png::CompressedTexture2D::1985221786218431700::1714959191::1714959207::1::::<><>::
